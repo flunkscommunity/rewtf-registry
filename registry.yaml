@@ -97,3 +97,14 @@
   wallets:
     evm: "0x000000000000000000000002717316C4f6837628"
     flow: "0x78821ad8ca4ed8dd"
+-
+  name: Flunks
+  github:    
+    - flunkscommunity
+  repos:
+    https://github.com/Flunks-Community/flunks-site
+  wallets:
+    evm: "0x0000000000000000000000024DfF20BeDFD6C48B"
+    flow: "0xe327216d843357f1"
+  x: 
+    - @flunks_nft
